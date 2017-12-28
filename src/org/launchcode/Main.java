@@ -9,6 +9,5 @@ public class Main {
     }
 
     private void anotherMethod(int value) {
-
     }
 }
