@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Tag V2 !");
     }
 
-    private void anotherMethod() {
+    private void anotherMethod(int value) {
 
     }
 }
