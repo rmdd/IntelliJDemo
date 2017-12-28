@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Hello World 3 !");
         System.out.println("Tag V2 !");
     }
+
+    private void anotherMethod() {
+
+    }
 }
